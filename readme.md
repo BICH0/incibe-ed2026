@@ -77,7 +77,8 @@ reto.tgz
 Puedes encontrar este formato en [retos/processed]()
 
 # Retos
-A continuacion se van a listar todos los retos## Dificultad: iniciacion  
+A continuacion se van a listar todos los retos
+
 ## Dificultad: iniciacion  
 ### 1-magiccrypto.7z
 **Categoria:** criptografia  
@@ -103,7 +104,7 @@ A continuacion se van a listar todos los retos## Dificultad: iniciacion
 **Categoria:** criptografia  
  **Tags:**  
  ¿Cuál es el sabor elegido para el nuevo zumo de una conocida marca? El fichero lemon.pdf parece tener la clave.  
-**Solucion:**  
+**Solucion:**MAREADOS  
 ### 6-ellibrodelquijote.7z
 **Categoria:** criptografia  
  **Tags:**  
@@ -115,19 +116,19 @@ proporciona algunas coordenadas para que las mentes más brillantes del institut
 Datos proporcionados:
 Libro: "El quijote de la mancha" (adjunto)
 Cada una de etas coordenadas pertenece a una palabra, júntalas mediante un guion bajo _.
-Si encuentras palabra1 y palabra2 la solución es flag{palabra1_palabra2}.
-	 10:8:2
-	 23:10:1
-	 30:8:2
-	 30:26:7
-	 35:1:7
-	 151:19:10
-	 151:11:8
-	 152:11:5  
+Si encuentras palabra1 y palabra2 la solución es flag{palabra1_palabra2}.  
+	 10:8:2  
+	 23:10:1  
+	 30:8:2  
+	 30:26:7  
+	 35:1:7  
+	 151:19:10  
+	 151:11:8  
+	 152:11:5   
 **Solucion:**  
 ### 7-notacifrada.7z
 **Categoria:** criptografia  
- **Tags:**  
+ **Tags:**ROT-13   
  Después de muchos años recopilando documentación, fotos y artículos, se ha decidido realizar una limpieza y
 llevar la documentación antigua a una nueva sala que le ha cedido el instituto.
 En esta sala se pueden archivar de una forma sencilla por fecha todos los documentos del periódico.
@@ -145,21 +146,23 @@ un texto ilegible junto a la referencia del emperador Julio César.
 **Categoria:** web  
  **Tags:**  
  En una de las clases de informática a las que asistes te asignan la tarea de mirar el código de un fichero html que formará parte del aplicativo que están desarrollando otros compañeros. Revísalo y confirma las dudas que tiene el profesor. 
-
 ¿Cuál es la contraseña de acceso? El código parece ofuscado.  
-**Solucion:**  
+**Solucion:**  accessgranted1337
+
 ### 10-excursion.7z
 **Categoria:** miscelaneo  
- **Tags:**  
+ **Tags:**exiftool  
  En próximos días vais a participar en una de las salidas anuales del instituto. Os llega al correo la información de la salida junto a una imagen adjunta. Como sois curiosos, decidís mirar si hay metadatos en la imagen. 
 
 ¿Qué fichero oculta la imagen adjunta?   
-**Solucion:**  
+**Solucion:**perseverance  
+
 ### 11-programa.7z
 **Categoria:** reverse  
- **Tags:**  
+ **Tags:** uncompyle6 python2  
  Ejecuta el fichero main y responde las preguntas para obtener la flag. Utiliza el pdf disponible para analizar el código de ciertas funciones.  
-**Solucion:**  
+**Solucion:** tengo_esta_clave_entre_mis_papeles  
+
 ### 12-exfiltracion.7z
 **Categoria:** forense  
  **Tags:**  
@@ -170,33 +173,37 @@ Los datos os suenan codificados en hexadecimal, pero ... ¿Cómo recomponer esta
 Además, hay mucho ruido de navegación en el fichero.
   
 **Solucion:**  
+
 ### 13-crackme.7z
 **Categoria:** reverse  
- **Tags:**  
+ **Tags:** DnSpy avaloniailspy   
  En el escritorio del usuario de uno de los ordenadores localizáis una aplicación. Os aseguráis de que no sea maliciosa y ejecutáis el fichero exe. Parece contener dos entradas de texto.
  
 Hay dos flags en esta prueba, recupera la flag1 del fichero exe.  
-**Solucion:**  
+**Solucion:** ACCESOHASIDOCONCEDIDO  
+
 ### 14-crackme2.7z
 **Categoria:** reverse  
- **Tags:**  
+ **Tags:**DnSpy avaloniailspy  
  En el escritorio del usuario de uno de los ordenadores localizais una aplicacion. Os aseguráis que no sea maliciosa y ejecutáis el fichero exe. Parece contener dos entradas de texto. 
 
 Hay dos flags en esta prueba, recupera la flag2 del fichero exe.   
-**Solucion:**  
+**Solucion:**COMPROBADO  
 ### 15-warmuplevel0.7z
 **Categoria:** miscelaneo  
- **Tags:**  
+ **Tags:** brainfuck  
  Tienes a alguien enviándote mensajes crípticos que parecen totalmente "random". 
 No son muy valientes quienes creen ocultarse bajo el anonimato de la red. 
 
  ¿Serás capaz de encontrar el mensaje quien esconde esta rara cadena de texto?  
-**Solucion:**  
+**Solucion:** stop_bullying_sociedad_mejor  
+
 ### 16-criptlejana.7z
 **Categoria:** criptografia  
- **Tags:**  
+ **Tags:** chino 
  Descifra el mensaje.  
-**Solucion:**  
+**Solucion:** chinatown  
+
 ### 17-lafuente.7z
 **Categoria:** criptografia  
  **Tags:**  
@@ -204,7 +211,8 @@ No son muy valientes quienes creen ocultarse bajo el anonimato de la red.
 
 ¿Puedes recuperar el mensaje original?
   
-**Solucion:**  
+**Solucion:** una_fuente_puede_ser_un_codificador  
+
 ### 18-quehace.7z
 **Categoria:** reverse  
  **Tags:**  
@@ -216,11 +224,12 @@ Aparentemente no realiza ninguna acción
 **Solucion:**  
 ### 19-tvradiosignal.7z
 **Categoria:** criptografia  
- **Tags:**  
+ **Tags:** MMSSTV  
  Una de las salidas que realizáis en el instituto es fuera de la gran ciudad, al campo. En esas salidas pernoctáis en un albergue y si el tiempo acompaña, soléis escuchar al anciano del lugar rememorar algunas historias del pueblo. El anciano saca una radio y reproduce en una cinta magnética de audio unos sonidos que según dice el los grabó años atrás. Esto empieza a parecerse a Stranger Things(tm) !
   
 ¿Podrías desvelar al anciano que mensaje esconde la cinta?   
-**Solucion:**  
+**Solucion:** 44258  
+
 ### 20-qr.7z
 **Categoria:** miscelaneo  
  **Tags:**  
@@ -229,6 +238,7 @@ Aparentemente no realiza ninguna acción
 ¿Puedes leer el QR?
   
 **Solucion:**  
+
 ### 21-accesoftp.7z
 **Categoria:** forense  
  **Tags:**  
@@ -236,23 +246,26 @@ Aparentemente no realiza ninguna acción
 
 Pregunta:
 Hay varias tramas que se corresponden a una subida FTP. Nos piden encontrar el contenido de lo que se ha descargado para proseguir en la investigación. Se trata de un fichero que se han descargado.  
-**Solucion:**  
+**Solucion:** karina  
+
 ### 22-cadenamagica.7z
 **Categoria:** reverse  
- **Tags:**  
+ **Tags:** strings->pcap binwalk -e pcap.out  
  En clases de informática, el profesor está distribuyendo unos binarios que necesitan de una cadena mágica como parámetro para probar las habilidades de los alumnos
 
 ¿Puedes encontrar la cadena mágica que devuelve la flag?
   
 **Solucion:**  
+
 ### 23-documents.7z
 **Categoria:** criptografia  
- **Tags:**  
+ **Tags:**ciberchef  
  Revisando la información en Documents, encontráis un fichero con un mensaje muy extraño. 
  
 Se repiten con frecuencia algunos pares de caracteres. Parece hexadecimal. ¿Qué obtienes si lo decodificas?
   
-**Solucion:**  
+**Solucion:** DISCOVER_HEX_MORSE_CODE  
+
 ### 24-ganaenlaruleta.7z
 **Categoria:** criptografia  
  **Tags:**  
@@ -261,7 +274,10 @@ Se repiten con frecuencia algunos pares de caracteres. Parece hexadecimal. ¿Qu�
 ¿podrás aplicar esos conocimientos al siguiente texto para encontrar el mensaje oculto?
   
 **Solucion:**  
+
+
 ## Dificultad: intermedio  
+
 ### 1-cofre.7z
 **Categoria:** reverse  
  **Tags:**  
